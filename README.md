@@ -2,7 +2,7 @@ This project is discontinued.\
 Most of the code is very bad, if you copy something make sure you fix it up.\
 Thanks to the ones who have supported me during the making of this
 
-Download - [https://github.com/AstrqlDev/RoseGoldAddons/releases/tag/Release](https://github.com/alzaiah/RoseGoldAddons/releases)
+Download - [https://github.com/alzaiah/RoseGoldAddons/releases](https://github.com/alzaiah/RoseGoldAddons/releases)
 
 # RoseGoldAddons Feature List:
 ### Keybinds:
